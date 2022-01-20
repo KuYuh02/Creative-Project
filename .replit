@@ -1,0 +1,5 @@
+language = "cpp"
+run = "run"
+#include <iostream>
+using namespace std;
+cout << "Hello world!" << endl;
